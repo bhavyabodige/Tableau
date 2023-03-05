@@ -1,2 +1,1 @@
-# Tableau
-  Tableau Desktop delivers everything you need to access, visualise and analyse your data. With an intuitive drag-and-drop interface, you can uncover the hidden insights you need to make impactful business decisions faster, even when you are offline. All while leveraging trusted and governed data in a secure self-service environment
+The Worlds Billionaires Dashboard is based on the dataset which contains all the information about the Worlds Billionaires from the year 1987-2022. This dataset has columns like Name, Year, Year of Ranking, Net worth in USD Billion, Age, Nationality and Source(s) of Wealth.
